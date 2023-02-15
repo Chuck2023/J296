@@ -11,8 +11,11 @@ Data Journalism  Markdown Practice Resume
 3. News writing (TV and Online)
 
 
-| Employer       | Job Description                                      |
-|----------------|------------------------------------------------------|
-| OalandSide     |   Reported on health inequities in BIPOC communities |
-| Oakland North  |   Research and produce news leads on BIPOC groups    |
-| UC Berkeley    |   Student instructor facilitating class sections     |
+| Employer       | Job Description                                    |
+|----------------|----------------------------------------------------|
+| OalandSide     | Reported on health inequities in BIPOC communities |
+|                | Researched and pitched health beats bi-weekly.     |
+| Oakland North  | Research and produce news leads on BIPOC groups    |
+|                | Filed public record requests for editors           |                                  
+| UC Berkeley    | Student instructor facilitating class sections     |
+|                | Designed Spring section syllabus and exam rubrics  |
